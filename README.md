@@ -1,99 +1,103 @@
 <div align="center">
 
-# TYRELL
+# Tyrell
 
-security researcher, tool developer, automation.
+Security Researcher, Tool Developer, and Automation Builder.
 
-i break things, figure out why they break, then build tools so others can break them faster.
+I break systems, understand how they fail, and build tooling that makes security work faster, safer, and easier to repeat.
 
-[portfolio](https://tintnaingwin.vercel.app) · [telegram](https://t.me/BadCodeWriter) · [github](https://github.com/devtint)
+[Portfolio](https://tintnaingwin.vercel.app) · [GitHub](https://github.com/devtint) · [LinkedIn](https://www.linkedin.com) · [Contact on Telegram](https://t.me/your_professional_handle)
+
+[Insert Banner/GIF here]
 
 </div>
 
 ---
 
-### who i am
+### About Me
 
-currently studying digital technology at kasem bundit university. when i'm not in class, i'm building security tools, writing automation scripts, and poking at whatever network i can find.
+I am currently studying Digital Technology at Kasem Bundit University. Outside class, I build security tools, write automation scripts, and spend time on offensive security research, especially web applications, APIs, and workflow automation.
 
-i started with simple python scripts and got obsessed. now most of what i do sits somewhere between offensive security, full-stack development, and just general automation of things that shouldn't need to be manual.
-
-my approach: read the source, test the edge cases, automate the boring parts, document the weird parts.
+My approach is consistent: read the source, test the edge cases, automate the boring parts, and document what matters.
 
 ---
 
-### what i'm working with
+### Core Stack
 
-| languages | frameworks & runtime | security & ops |
+| Languages | Frameworks and Runtime | Security and Ops |
 | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> | <img src="https://img.shields.io/badge/nuclei-00C4CC?style=for-the-badge" /> |
-| <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/burp_suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> | <img src="https://img.shields.io/badge/owasp-000000?style=for-the-badge&logo=owasp&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> | <img src="https://img.shields.io/badge/kali_linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> | <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> | <img src="https://img.shields.io/badge/Nuclei-00C4CC?style=for-the-badge" /> |
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> | <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> |
 
 ---
 
-### current focus
+### Current Focus
 
+```text
+Vulnerability Research    -> Learning how systems fail at the protocol and application layers
+Security Automation       -> Building tools that handle repetitive recon and validation work
+Web Application Pentesting -> API security, auth bypasses, and logic flaws
+Reverse Engineering       -> Static analysis and binary patching fundamentals
+AI in Tooling             -> Using LLMs for template generation, triage, and workflow acceleration
 ```
-vulnerability research      -->  learning how things break at the protocol level
-security automation         -->  building tools that do the repetitive recon work
-web app pentesting          -->  api security, auth bypasses, logic flaws
-reverse engineering         -->  static analysis, binary patching basics
-ai integration in tooling   -->  using llms to help with template generation and triage
-```
+
+[Insert CLI demo GIF here]
 
 ---
 
-### projects
+### Selected Projects
 
-#### security tooling
+#### Security Tooling
 
-| project | description |
+| Project | Description |
 | :--- | :--- |
-| **[NUCLEI_CNM](https://github.com/devtint/NUCLEI_CNM)** | management dashboard for nuclei scans. multi-node distribution, ai template suggestions, real-time vuln feed, and report export. |
-| **[CAPTIVE_AUDIT](https://github.com/devtint/CAPTIVE_AUDIT)** | captive portal security auditing toolkit. bypass probing, dns/dhcp tests, packet capture, and structured pdf reporting. |
-| **[SecurityHeaderScanner](https://github.com/devtint/SecurityHeaderScanner)** | validates http security headers against owasp standards. csp, hsts, cors, and more. ci/cd ready. |
-| **[Js-And-Endpoints-scanner](https://github.com/devtint/Js-And-Endpoints-scanner)** | extracts hidden api endpoints, secret keys, and internal routes from js bundles. browser extension + cli. |
-| **[API_PENTEST](https://github.com/devtint/API_PENTEST)** | automated rest and graphql api security testing. fuzzes for bola, auth bypasses, schema injection, and rate limit abuse. |
+| **[Nuclei CnM](https://github.com/devtint/NUCLEI_CNM)** | Management dashboard for Nuclei scans with multi-node distribution, AI template suggestions, real-time vulnerability feed, and report export. |
+| **[Captive Audit](https://github.com/devtint/CAPTIVE_AUDIT)** | Captive portal security auditing toolkit with bypass probing, DNS and DHCP tests, packet capture, and structured PDF reporting. |
+| **[Security Header Scanner](https://github.com/devtint/SecurityHeaderScanner)** | Validates HTTP security headers against OWASP standards, including CSP, HSTS, and CORS. CI/CD ready. |
+| **[JS and Endpoints Scanner](https://github.com/devtint/Js-And-Endpoints-scanner)** | Extracts hidden API endpoints, secret keys, and internal routes from JavaScript bundles. Browser extension plus CLI. |
+| **[API Pentest](https://github.com/devtint/API_PENTEST)** | Automated REST and GraphQL API security testing for BOLA, auth bypasses, schema injection, and rate-limit abuse. |
 
-#### tools and utilities
+#### Tools and Utilities
 
-| project | description |
+| Project | Description |
 | :--- | :--- |
-| **[antigravity-usage](https://github.com/devtint/antigravity-usage)** | tracks llm token usage and costs across providers in real time. built for budget awareness when working with ai apis. |
-| **[free-stack](https://github.com/devtint/free-stack)** | documentation and configs for running a full production web stack on $0/mo using free-tier cloud services. |
-| **[WarpConfGen](https://github.com/devtint/WarpConfGen)** | generates wireguard configs for cloudflare warp. handles device registration, split-tunneling, and batch config management. |
+| **[Anti-Gravity Usage](https://github.com/devtint/antigravity-usage)** | Tracks LLM token usage and cost across providers in real time for budget awareness. |
+| **[Free Stack](https://github.com/devtint/free-stack)** | Documentation and configs for running a production-style web stack on $0/month using free-tier cloud services. |
+| **[Warp Config Generator](https://github.com/devtint/WarpConfGen)** | Generates WireGuard configs for Cloudflare WARP, including device registration, split tunneling, and batch config management. |
+
+[Insert Architecture Diagram here]
 
 ---
 
-### github stats
+### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=devtint&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devtint&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devtint&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="devtint GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=devtint&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="devtint streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devtint&theme=default&utcOffset=7" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devtint&theme=default" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devtint&theme=default" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devtint&theme=default" height="165" alt="GitHub summary stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtint&theme=github-compact&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtint&theme=github-compact&hide_border=true" width="100%" alt="Contribution graph" />
 </div>
 
 ---
 
-### reach out
+### Contact
 
-i'm open to collaboration, interesting security problems, or just talking about tools and techniques.
+I am open to collaborations, offensive security research, tooling partnerships, and enterprise-friendly engineering conversations.
 
-[telegram @BadCodeWriter](https://t.me/BadCodeWriter)
+[Portfolio](https://tintnaingwin.vercel.app) · [GitHub](https://github.com/devtint) · [Telegram](https://t.me/your_professional_handle)
 
 ---
 
 <div align="center">
-  <sub>devtint · building things that break things · bangkok</sub>
+  <sub>devtint · offensive security, automation, and practical tooling</sub>
 </div>
