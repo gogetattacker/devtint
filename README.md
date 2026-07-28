@@ -43,7 +43,7 @@ Reverse Engineering       -> Static analysis and binary patching fundamentals
 AI in Tooling             -> Using LLMs for template generation, triage, and workflow acceleration
 ```
 
-[Insert CLI demo GIF here]
+
 
 ---
 
@@ -67,7 +67,7 @@ AI in Tooling             -> Using LLMs for template generation, triage, and wor
 | **[Free Stack](https://github.com/devtint/free-stack)** | Documentation and configs for running a production-style web stack on $0/month using free-tier cloud services. |
 | **[Warp Config Generator](https://github.com/devtint/WarpConfGen)** | Generates WireGuard configs for Cloudflare WARP, including device registration, split tunneling, and batch config management. |
 
-[Insert Architecture Diagram here]
+
 
 ---
 
