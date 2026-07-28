@@ -74,7 +74,6 @@ AI in Tooling             -> Using LLMs for template generation, triage, and wor
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devtint&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="devtint GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=devtint&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" alt="devtint streak stats" />
 </div>
 
