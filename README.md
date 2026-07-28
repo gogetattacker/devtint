@@ -8,7 +8,6 @@ I break systems, understand how they fail, and build tooling that makes security
 
 [Portfolio](https://tintnaingwin.vercel.app) · [GitHub](https://github.com/devtint) · [LinkedIn](https://www.linkedin.com) · [Contact on Telegram](https://t.me/your_professional_handle)
 
-[Insert Banner/GIF here]
 
 </div>
 
